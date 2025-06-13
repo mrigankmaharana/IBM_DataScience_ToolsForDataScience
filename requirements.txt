@@ -5,3 +5,4 @@ beautifulsoup4
 matplotlib
 ipykernel
 lxml
+plotly
